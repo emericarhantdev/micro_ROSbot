@@ -1,6 +1,6 @@
 # PAMI Power Board (KiCad)
 
-Power/IO board for the DaVinciBot PAMI project. Contains KiCad schematics/PCB, custom symbols/footprints, and fabrication outputs (Gerbers + drills).
+Power/IO board for a Small MicroROS-based robot project. Contains KiCad schematics/PCB, custom symbols/footprints, and fabrication outputs (Gerbers + drills).
 
 ## Contents
 - PAMI-Power_Board.kicad_pro / .kicad_sch / .kicad_pcb: main KiCad project
